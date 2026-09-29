@@ -1,8 +1,8 @@
 {
   "name": "@stackline/types-concat-stream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript definitions for concat-stream",
-  "homepage": "https://github.com/alexandroit/stackline-types-concat-stream#readme",
+  "homepage": "https://alexandro.net/docs/vanilla/types-concat-stream/",
   "license": "MIT",
   "contributors": [
     {
@@ -45,5 +45,12 @@
     "typescript-min": "npm:typescript@4.5.5",
     "node-types-min": "npm:@types/node@18.11.18",
     "node-types-current": "npm:@types/node@24.12.2"
-  }
+  },
+  "keywords": [
+    "stackline",
+    "npm-package",
+    "types-concat-stream",
+    "typescript",
+    "streams"
+  ]
 }
