@@ -4,7 +4,7 @@
     {
       "name": "@stackline/types-concat-stream",
       "path": "README.md",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "baselineVersion": "1.0.0",
       "keywords": [
         "stackline",
@@ -16,8 +16,8 @@
       "homepage": "https://alexandro.net/docs/vanilla/types-concat-stream/",
       "baselineTarball": "https://registry.npmjs.org/@stackline/types-concat-stream/-/types-concat-stream-1.0.0.tgz",
       "baselineIntegrity": "sha512-ZG8cwHXcUYmBlmpaX61JOhkXqfg+lX5ZQ7RGIu3rOfKfLO97E0Kfmk99zD4U0mdOGEIeLgh8260ddEHJytDppQ==",
-      "expectedSha512": "a167a5a96ccc148959b2b6b785e22e93cf36fba161a0987135e1556810d552e822de9c9dcb450df5eba30379d9fc4d52b772cd6ac19b3ccc96b148bf86af893e",
-      "tag": "docs-stackline-types-concat-stream-v1.0.1"
+      "expectedSha512": "2fc5fa654ac2284efc27ac3ef144f17e47d65d01ce8c3bca3cf501a762cf8465175bffeb63b96b191081e7981c0b251f0de421e345ea0f2f5f372cabd6db17cd",
+      "tag": "docs-stackline-types-concat-stream-v1.0.2"
     }
   ]
 }
