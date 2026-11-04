@@ -41,7 +41,7 @@
     "NOTICE"
   ],
   "devDependencies": {
-    "typescript": "5.9.3",
+    "typescript": "7.0.2",
     "typescript-min": "npm:typescript@4.5.5",
     "node-types-min": "npm:@types/node@18.11.18",
     "node-types-current": "npm:@types/node@24.12.2"
